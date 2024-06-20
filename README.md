@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate projects on Web Development...
 - 📫 How to reach me - maheshwariiandekar@gmail.com.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: An apple is an apple. Let it be an apple. Don't try to mask it as Pineapple. So be yourself.
+- ⚡ Fun fact: An apple is an apple. Let it be an apple. Don't try to mask it as Pineapple. Be yourself.
 
 <!---
 maheshwari-1721/maheshwari-1721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
